@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Serenity
   class NodeType
     TAG = 1

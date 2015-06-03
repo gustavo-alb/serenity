@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Serenity
   RSpec::Matchers.define :be_a_document do
     match do |actual|
